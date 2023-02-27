@@ -2,5 +2,5 @@
   "packages": ["packages/*"],
   "useNx": false,
   "version": "1.2.0",
-  "ignoreChanges": []
+  "ignoreChanges": ["packages/pkg3/*"]
 }
