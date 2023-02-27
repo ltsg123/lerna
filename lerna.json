@@ -1,7 +1,10 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "useNx": false,
-  "version": "1.2.0"
+  "version": "1.2.0",
+  "command": {
+    "version": {
+      "allowBranch": ["demo1", "pkg2"]
+    }
+  }
 }
