@@ -1,6 +1,7 @@
 {
   "name": "pkg2",
   "version": "1.0.0",
+  "private": true,
   "description": "> TODO: description",
   "author": "ltsg <1056526547@qq.com>",
   "homepage": "",
